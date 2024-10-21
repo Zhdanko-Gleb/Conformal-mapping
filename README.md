@@ -26,7 +26,7 @@ This project uses several key parameters to control the Joukowsky transformation
 - **`b` Parameter (Cambering)**: The value of `b` controls the curvature or camber of the wing. Higher values increase the curvature, allowing for the design of wings with more pronounced aerodynamic profiles.
 
 These parameters allow fine-tuning of wing shapes, offering flexibility to adapt designs for specific applications such as energy-efficient wind turbine blades or optimized aircraft wings.
-![Conformal Mapping Visualization](https://github.com/Zhdanko-Gleb/Conformal-mapping/blob/main/images/Joukowskitransform(0.2%2C%200.2%2C%201).svg)
+![Conformal Mapping Visualization](https://github.com/Zhdanko-Gleb/Conformal-mapping/blob/main/images/output.png)
 
 
 ## Installation
