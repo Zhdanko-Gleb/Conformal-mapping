@@ -1,6 +1,4 @@
-
 # Conformal Mapping
-
 ## Description
 
 This project provides a Python-based implementation of the **Joukowsky conformal mapping**. The primary goal is to facilitate the transformation of complex shapes, particularly for use in **Computational Fluid Dynamics (CFD)** simulations. Conformal mapping is a powerful technique in both theoretical and applied mathematics, and this project focuses on its practical applications—such as the optimization of wing designs for wind farming and aerodynamics.
@@ -28,6 +26,8 @@ This project uses several key parameters to control the Joukowsky transformation
 - **`b` Parameter (Cambering)**: The value of `b` controls the curvature or camber of the wing. Higher values increase the curvature, allowing for the design of wings with more pronounced aerodynamic profiles.
 
 These parameters allow fine-tuning of wing shapes, offering flexibility to adapt designs for specific applications such as energy-efficient wind turbine blades or optimized aircraft wings.
+![Conformal Mapping Visualization](https://github.com/Zhdanko-Gleb/Conformal-mapping/blob/main/images/Joukowskitransform(0.2%2C%200.2%2C%201).svg)
+
 
 ## Installation
 
